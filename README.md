@@ -12,8 +12,6 @@ Download the file for your device from the [latest release](../../releases/lates
 - **Windows:** run the installer (`.exe`).
 - **Linux:** make the `.AppImage` executable (`chmod +x`) and run it.
 
-Earlier versions, released under the name Bonsai Grove, are in [bonsai-grove-releases](https://github.com/reupost/bonsai-grove-releases/releases).
-
 ## Update
 
 The app tells you when a newer version is available and links to the release page. It never downloads or installs anything itself. Download the new file and install it over the old one; your data is kept. You can switch the check off in Settings.
