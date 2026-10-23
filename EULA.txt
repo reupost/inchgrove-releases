@@ -1,0 +1,411 @@
+END USER LICENSE AGREEMENT
+
+Inchgrove
+Last updated: 7 October 2026
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING INCHGROVE. BY DOWNLOADING,
+INSTALLING, OR USING THE APPLICATION YOU AGREE TO BE BOUND BY THESE TERMS. IF YOU
+DO NOT AGREE, DO NOT INSTALL OR USE THE APPLICATION.
+
+
+1. PARTIES
+
+This End User License Agreement ("Agreement") is between you ("User" or "you") and
+Reuben Roberts ("Developer", "we", or "us"), the individual developer of the mobile
+and desktop application known as Inchgrove ("Application").
+
+
+2. GRANT OF LICENSE
+
+Subject to your compliance with this Agreement, the Developer grants you a limited,
+non-exclusive, non-transferable, revocable licence to install and use the Application
+on devices that you own or control.
+
+You may use the Application for any purpose, personal or commercial. This includes use
+by a nursery, garden centre, landscaping or bonsai business, school, or other
+professional or institutional user, to manage collections belonging to you or to your
+organisation, and on the devices of your staff acting in that capacity.
+
+What this licence does not permit is redistributing, reselling, or sublicensing the
+Application as supplied to you. Those restrictions are set out in Section 3.
+
+This Agreement governs the built Application only. The source code from which it is
+built is licensed separately, to anyone who obtains it, under the GNU General Public
+License version 3 — which does permit modifying and redistributing it, on the terms
+that licence sets out. Nothing in this Agreement restricts any right you hold under
+the GPL in respect of the source code, and nothing in this Agreement is a condition
+on exercising it. Any build you make yourself from that source is yours under the
+GPL, not a copy of the Application supplied under this Agreement.
+
+
+3. RESTRICTIONS
+
+These restrictions apply to the Application as supplied to you under this Agreement.
+They do not apply to the source code, which is licensed under the GNU General Public
+License version 3 as described in Section 2, and they are not to be read as adding
+any condition to that licence.
+
+You may not:
+
+  a) copy, modify, adapt, translate, or create derivative works of the Application;
+  b) reverse engineer, disassemble, decompile, or otherwise attempt to derive the
+     source code of the Application, except to the extent expressly permitted by
+     applicable law;
+  c) sell, sublicense, rent, lease, lend, or otherwise transfer the Application or
+     any rights in it to any third party;
+  d) remove or alter any proprietary notices, labels, or marks on the Application;
+  e) use the Application for any unlawful purpose or in violation of any applicable
+     law or regulation.
+
+
+4. EDITIONS, PRICE, AND TIPS
+
+The Application is free of charge in every form it is distributed in. It places no
+limit on how many records you may store, and no feature is sold or locked behind a
+purchase.
+
+  Store Edition   — obtained from an app store, such as Google Play or the Microsoft
+                    Store.
+  Direct Edition  — obtained from the Inchgrove website or its official releases
+                    page: the Android package, or the Windows and Linux desktop builds.
+
+  a) You may choose to support the Developer with a tip. A tip is a voluntary gift.
+     It buys nothing: it unlocks no feature, changes nothing in the Application, and
+     creates no entitlement, subscription, or obligation on the Developer's part.
+
+  b) In the edition obtained from Google Play, a tip is paid through Google Play's
+     billing, with RevenueCat presenting the amounts on offer. Google Play shows the
+     price in your currency before you confirm. A tip is final and non-refundable
+     except as required by applicable law or under Google Play's own refund policy.
+
+  c) Other editions may instead link to the Developer's page on Ko-fi (ko-fi.com). A
+     tip given there is made on Ko-fi's website under Ko-fi's terms, not through the
+     Application, which takes no part in it and receives nothing from it.
+
+  d) A Direct Edition should be obtained only from the Inchgrove website or its
+     official releases page. The Developer cannot vouch for the integrity of a copy
+     obtained from anywhere else.
+
+  e) Installing an Android package directly requires you to permit installation from
+     that source in your device settings, and your device may warn you before it
+     proceeds. Whether to do so is your decision.
+
+  f) The Developer may change or stop offering tips, or cease offering any Edition, at
+     any time.
+
+
+5. YOUR CONTENT
+
+The records you create in the Application — trees, pots, species, care guides, diary
+entries, jobs, photographs, and videos ("Your Content") — belong to you. The Developer
+claims no ownership of Your Content and acquires no licence to it.
+
+  a) You are responsible for Your Content, including for holding the rights necessary
+     to store any photograph, video, or text you add to the Application.
+
+  b) The Application can export Your Content to a file. If you choose to share an
+     exported file, you are responsible for what it contains and for distributing it
+     lawfully. Sharing is entirely under your control; the Application never transmits
+     an exported file anywhere on its own.
+
+  c) Content you import from a file supplied by someone else is merged into your own
+     collection. The Developer does not review, endorse, or accept responsibility for
+     content originating from third parties.
+
+
+6. DATA STORAGE AND PRIVACY
+
+The Application is designed on a local-first basis.
+
+  a) All data you enter is stored on your device, in a database and photo files held
+     in the Application's own storage. It is not transmitted anywhere except through
+     the optional features described in this Section and in Sections 7 and 8, each of
+     which is off until you switch it on. The update checks described in Section 10
+     send no part of it.
+
+  b) The Application does not require an account and does not collect or store any
+     personal information as part of its normal operation. The Developer operates no
+     server holding your records and has no copy of your collection.
+
+  c) You are solely responsible for maintaining backups of your data. The Application
+     provides export functions for this purpose, including a full database snapshot on
+     desktop. The Developer accepts no liability for data loss resulting from device
+     failure, uninstallation, or any other cause.
+
+  d) If you choose to export a job to your device calendar (see Section 9), the text of
+     that job and the tree or collection it belongs to are written into a calendar
+     entry, which leaves the Application's own storage and is thereafter held by your
+     device's calendar. Where that calendar belongs to an account you have configured to
+     synchronise — an iCloud or similar account — your operating system may replicate
+     the entry to that account's servers, under that provider's terms rather than these.
+     The Developer neither performs nor receives any such transfer. On Android the
+     Application's calendar is created as a local, non-synchronising one. Export is
+     off unless you turn it on, one job at a time.
+
+  e) Frost warnings are off unless you turn them on in Settings. While they are on,
+     the Application sends the name you type when choosing a town, with the
+     Application's language, to GeoNames (geonames.org) to find it, and that town's
+     position, rounded to about a kilometre, to the Norwegian Meteorological Institute
+     (api.met.no) for its weather forecast. No tree, species, or identifier of you is
+     sent, and the chosen town stays on the device you chose it on. Your IP address
+     reaches each service as it would when contacting any server. Both services'
+     data is used under the Creative Commons Attribution 4.0 licence and credited in
+     the Application. A frost warning is general guidance derived from a forecast,
+     not a guarantee of the conditions your trees will meet.
+
+
+7. CLOUD BACKUP AND SYNC (OPTIONAL)
+
+The Application can back up your collection to, and synchronise it between your own
+devices through, a Dropbox or Microsoft OneDrive account that you supply (the
+"storage provider"). This feature is disabled until you connect an account from the
+Backup & Sync screen.
+
+  a) If you connect an account, a file containing your records and copies of your
+     photographs and videos are uploaded to a folder in your own storage provider
+     account.
+
+  b) The data is held in your storage provider account, not by the Developer. The
+     Developer has no access to it and does not receive a copy.
+
+  c) The connection is authorised by you through the storage provider's own sign-in
+     flow. The resulting access tokens are held in your device's secure credential
+     store and are never transmitted to the Developer.
+
+  d) You may disconnect at any time. The Application also provides an action to delete
+     the backup held in your storage provider account. Disconnecting does not delete
+     data already stored there; deleting the backup does not affect the copy on your
+     device.
+
+  e) The storage provider's own terms and privacy policy govern its handling of
+     anything stored in your account. They are available at
+     https://www.dropbox.com/privacy for Dropbox and
+     https://privacy.microsoft.com/privacystatement for Microsoft OneDrive.
+
+
+8. CRASH REPORTING (OPTIONAL)
+
+The mobile Application includes an optional crash and performance reporting feature
+powered by Sentry (sentry.io). It is disabled by default and requires your explicit
+consent before it is activated (Settings > App > Anonymous crash reports). It is
+not present in the desktop version.
+
+  a) If you enable it, diagnostic data — including crash stack traces, device model,
+     operating system version, and app version — may be transmitted to Sentry's
+     servers.
+
+  b) Nothing is recorded or reported unless something goes wrong. Sessions in which no
+     error occurs are not recorded. A small proportion of sessions additionally report
+     timing measurements, which contain no recording and no content.
+
+  c) When an error does occur, a replay of the interface in the moments leading up to
+     it is included. This is a reconstruction of the screen layout, the navigation
+     between screens, and where you tapped — not a video of the display. Text and
+     images are masked, so the words in your diary entries and the content of your
+     photographs do not appear in it.
+
+  d) Your diary entries, tree records, photographs, and videos are not transmitted as
+     part of a crash report.
+
+  e) Your IP address reaches Sentry's servers in the course of sending a report, as it
+     would when contacting any server. The Application does not attach it to the report,
+     and Sentry is configured not to store it.
+
+  f) You may withdraw consent at any time by disabling the toggle in Settings >
+     App. The change takes effect the next time you open the Application.
+
+  g) Sentry's own privacy policy governs Sentry's processing of any data transmitted
+     to its platform and is available at https://sentry.io/privacy/.
+
+
+9. DEVICE PERMISSIONS
+
+The Application may request the following device permissions, each of which is used
+solely for the features described:
+
+  Camera             — photographing and recording video of your collection, trees,
+                       pots, and species, and scanning printed QR labels.
+  Photo Library      — adding existing photographs and videos to your records.
+  Microphone         — recording the audio track of videos, and voice input for
+                       diary and job entries.
+  Speech Recognition — transcribing voice input into text.
+  Notifications      — reminders for scheduled jobs and backup prompts. These are
+                       scheduled on your device; the Application has no push
+                       notification server and sends you nothing remotely.
+  Exact Alarms       — on Android, delivering a job reminder at the time you set
+                       rather than at a time chosen by the system.
+  Calendar           — adding jobs you choose to export to your device calendar.
+                       Granted only if you use that feature.
+
+The Application creates and uses its own calendar, named "Inchgrove", and confines
+itself to that calendar: it adds, updates, and removes only the entries it created
+there for jobs you chose to export, and it does not read, list, or alter events in any
+other calendar on your device. Nothing from your calendar is transmitted anywhere.
+
+Your operating system may present this as a single, broad calendar permission covering
+both reading and writing. That is the only tier the platforms offer an application that
+maintains a calendar of its own — a narrower write-only permission exists on recent iOS
+but cannot create or address a calendar, and Android offers no such tier at all. The
+limitation described in the preceding paragraph is a commitment by the Developer, not
+one enforced by your device. You may revoke the permission at any time; job export then
+stops working and nothing else is affected.
+
+Speech recognition is carried out by your device's operating system or, in the desktop
+version, by the embedded browser engine. Depending on your platform, version, and
+settings, the audio may be transcribed on the device or sent to Apple's or Google's
+speech services for transcription. In either case it is handled by the platform and
+not by the Developer, who neither receives nor stores it. If you would rather no audio
+left your device, do not use the voice input feature.
+
+Permissions may be refused or revoked at any time in your device settings; the feature
+that depends on the permission then stops working, and the rest of the Application is
+unaffected.
+
+
+10. SOFTWARE UPDATES
+
+The mobile Application, in either Edition, may check for and download updates
+automatically through Expo's update service, and apply them the next time it starts.
+This request discloses your IP address and your app and device version to Expo. No part
+of Your Content is involved.
+
+Such updates cover part of the Application only. A change requiring a new installation
+package is not delivered this way: for a Store Edition it arrives through the platform
+store, and for a directly installed Android package you obtain and install the newer
+package yourself.
+
+The desktop Application does not update itself. Updates are obtained by downloading and
+installing a newer version.
+
+The desktop Application and the directly installed Android package can tell you when a
+newer version is released. Unless you turn this off in Settings, they fetch a small
+file listing the latest versions from GitHub (github.com) about once a day. The request
+carries no identifier and none of Your Content, though your IP address reaches GitHub as
+it would when contacting any server. Nothing is downloaded or installed by this check.
+
+
+11. THIRD-PARTY SERVICES AND COMPONENTS
+
+The Application integrates the following third-party services. Each is governed by its
+own terms and privacy policy, which you should review independently:
+
+  Sentry (sentry.io)      — optional crash reporting (see Section 8).
+  Dropbox                 — optional cloud backup and sync (see Section 7).
+  Microsoft OneDrive      — optional cloud backup and sync (see Section 7).
+  RevenueCat              — presents tips in the edition obtained from Google Play
+                            (see Section 4), and only once you open the tip options.
+                            No other edition communicates with RevenueCat.
+  Ko-fi (ko-fi.com)       — tips in editions that link to it (see Section 4).
+  GeoNames, MET Norway    — optional frost warnings (see Section 6).
+  GitHub                  — the release list behind update notices (see Section 10).
+  Apple / Google /        — app distribution for Store Editions, Google Play billing
+  Microsoft                 for tips (see Section 4), and the speech recognition
+                            services described in Section 9 on any Edition running on
+                            those platforms.
+  Expo / EAS              — application build and update delivery infrastructure.
+
+The Developer is not responsible for the practices of these third parties.
+
+The Application also incorporates open-source software components, each licensed by its
+own author under its own terms. Nothing in this Agreement limits any right you have
+under those licences in respect of those components.
+
+
+12. INTELLECTUAL PROPERTY
+
+The Application, including its code, design, graphics, text, the built-in species
+catalogue, and the built-in care guides, is owned by the Developer and is protected by
+copyright and other intellectual property laws. Nothing in this Agreement transfers any
+ownership rights to you.
+
+This Section does not apply to Your Content, which is dealt with in Section 5, or to
+the open-source components referred to in Section 11.
+
+The licence granted in Section 2 is the only right you receive in connection with the
+Application.
+
+
+13. DISCLAIMER OF WARRANTIES
+
+THE APPLICATION IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE
+DEVELOPER DISCLAIMS ALL WARRANTIES INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+The Developer does not warrant that the Application will be error-free, uninterrupted,
+or free of harmful components, or that defects will be corrected.
+
+The horticultural information in the Application, including the built-in care guides,
+is general guidance only. It is not advice for any particular plant, and outcomes
+depend on species, climate, and conditions the Developer cannot assess. You remain
+responsible for the care of your trees.
+
+
+14. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE DEVELOPER SHALL NOT BE LIABLE
+FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY
+LOSS OF DATA, REVENUE, PROFITS, OR GOODWILL, ARISING OUT OF OR IN CONNECTION WITH
+YOUR USE OF OR INABILITY TO USE THE APPLICATION, EVEN IF THE DEVELOPER HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+THE DEVELOPER'S TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING UNDER OR IN CONNECTION
+WITH THIS AGREEMENT SHALL NOT EXCEED THE AMOUNT, IF ANY, YOU PAID FOR THE APPLICATION.
+
+Nothing in this Agreement excludes or limits liability for death or personal injury
+caused by negligence, for fraud, or for any other liability that cannot lawfully be
+excluded or limited.
+
+Some jurisdictions do not allow the exclusion or limitation of certain warranties or
+liabilities. In such jurisdictions, the above limitations apply to the fullest extent
+permitted by law.
+
+
+15. TERMINATION
+
+This Agreement is effective until terminated. It terminates automatically if you
+fail to comply with any of its terms. Upon termination, you must cease all use of
+the Application and delete all copies in your possession.
+
+Termination does not delete Your Content from your own device or from any cloud
+account you have connected; removing it is a matter for you.
+
+Sections 5, and 11 to 18, survive termination.
+
+
+16. GOVERNING LAW AND DISPUTES
+
+This Agreement is governed by the laws of England and Wales, without regard to its
+conflict of laws principles. Any dispute arising out of or in connection with this
+Agreement shall be subject to the exclusive jurisdiction of the courts of
+England and Wales.
+
+If you are a consumer, you may also have rights under the mandatory consumer
+protection laws of your country of residence, which this Agreement does not affect,
+and you may be entitled to bring proceedings in the courts of that country.
+
+
+17. CHANGES TO THIS AGREEMENT
+
+The Developer may update this Agreement from time to time. The updated version will
+be made available through the Application, the Inchgrove website, or the applicable
+platform store listing. Continued use of the Application after the effective date of
+any change constitutes your acceptance of the revised Agreement.
+
+
+18. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between you and the Developer with
+respect to the Application and supersedes all prior understandings, agreements, or
+representations.
+
+
+19. CONTACT
+
+For questions about this Agreement, please contact:
+
+  Reuben Roberts
+  info@inchgrove.co.uk
+
+
+--- END OF AGREEMENT ---
