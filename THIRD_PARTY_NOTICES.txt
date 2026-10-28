@@ -70,7 +70,7 @@ THE SOFTWARE.
 
 ------------------------------------------------------------------------------
 
-@expo/cli 55.0.36
+@expo/cli 55.0.37
 Licence: MIT
 Author: Expo
 Homepage: https://github.com/expo/expo/tree/main/packages/@expo/cli
@@ -1029,7 +1029,7 @@ SOFTWARE.
 
 ------------------------------------------------------------------------------
 
-expo 55.0.31
+expo 55.0.32
 Licence: MIT
 Author: Expo
 Homepage: https://github.com/expo/expo/tree/main/packages/expo
@@ -1268,7 +1268,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ------------------------------------------------------------------------------
 
-expo-modules-core 55.0.26
+expo-modules-core 55.0.27
 Licence: MIT
 Author: 650 Industries, Inc.
 Homepage: https://github.com/expo/expo/tree/main/packages/expo-modules-core
@@ -1423,7 +1423,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ------------------------------------------------------------------------------
 
-expo-updates 55.0.24
+expo-updates 55.0.33
 Licence: MIT
 Author: 650 Industries, Inc.
 Homepage: https://docs.expo.dev/versions/latest/sdk/updates/
