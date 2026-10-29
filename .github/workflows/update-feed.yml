@@ -1,0 +1,27 @@
+name: Update feed
+
+# Runs when a draft is published, so the feed never points at a page that 404s.
+# Attach the APK before publishing: a later upload doesn't move the android entry.
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  feed:
+    if: ${{ !github.event.release.prerelease }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node .github/update-feed.js "$TAG" "$URL" "$ASSETS"
+        env:
+          TAG: ${{ github.event.release.tag_name }}
+          URL: ${{ github.event.release.html_url }}
+          ASSETS: ${{ toJson(github.event.release.assets.*.name) }}
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add update-feed.json
+          git diff --cached --quiet || { git commit -m "Feed: ${{ github.event.release.tag_name }}" && git push; }
