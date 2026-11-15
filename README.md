@@ -1,6 +1,6 @@
 # Inchgrove
 
-Small trees, long memories. A free bonsai management app for Android and the Windows and Linux desktop. Your data stays on your device unless you choose to back it up or sync it.
+Small trees, long memories. A free bonsai management app for Android and the Windows and Linux desktop. Your data stays on your device unless you choose to back it up or sync it. See [Inchgrove](https://inchgrove.co.uk) for details and app description.
 
 This repository holds the downloads. Use of the app is covered by the [EULA](EULA.txt); third-party components are listed in [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
 
